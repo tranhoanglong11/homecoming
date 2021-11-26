@@ -139,3 +139,4 @@ Received Import Request.
 Start importing Assets/TestLong.cs using Guid(b7b0740ef7e5dda4fac3ff2e833825da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ee500ca808d6fdb50f1d36ee97772a') in 0.095008 seconds 
   Import took 0.109111 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
